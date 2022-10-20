@@ -3,6 +3,14 @@
 <table>
     <tr>
         <td>
+            <a href="https://github.com/BlueBrain/knowledgegraph-management-suite"><img src="https://github.com/alextestorganization/.github/raw/main/images/00.BBP-Thumbnail-Data-Management-text.png" width="500"></a>
+        </td>
+        <td>
+           <a href="https://github.com/BlueBrain/textmining-knowledgeengineering-suite"><img src="https://github.com/alextestorganization/.github/raw/main/images/00.BBP-Thumbnail-Text-mining.jpg" width="500"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/BlueBrain/atlas-suite"><img src="https://github.com/alextestorganization/.github/raw/main/images/00.BBP-Thumbnail-Atlas-suite.png" width="500"></a>
         </td>
         <td>
@@ -11,11 +19,20 @@
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/BlueBrain/singlecell-emodel-suite"><img src="https://github.com/alextestorganization/.github/raw/main/images/00.BBP-Thumbnail-Single-cell.png" width="500"></a>
-        </td>
-        <td>
            <a href="https://github.com/BlueBrain/vasculature-suite"><img src="https://github.com/alextestorganization/.github/raw/main/images/00.BBP-Thumbnail-Vasculature.png" width="500"></a>
         </td>
+        <td>
+            <a href="https://github.com/BlueBrain/singlecell-emodel-suite"><img src="https://github.com/alextestorganization/.github/raw/main/images/00.BBP-Thumbnail-Single-cell.png" width="500"></a>
+        </td>
+    </tr>
+        <tr>
+        <td>
+            <a href="https://github.com/BlueBrain/circuit-model-suite"><img src="https://github.com/alextestorganization/.github/raw/main/images/00.BBP-Thumbnail-Circuit-suite.png" width="500"></a>
+        </td>
+        <td>
+           <a href="https://google.com"><img src="https://github.com/alextestorganization/.github/raw/main/images/00.BBP-Thumbnail-Exploration.jpg" width="500"></a>
+        </td>
+    </tr>
 </table>
 
 
